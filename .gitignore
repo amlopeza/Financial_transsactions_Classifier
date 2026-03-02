@@ -1,0 +1,11 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Python basura
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
